@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403105778000",
+    "project_id": "tsyproject-1743d",
+    "storage_bucket": "tsyproject-1743d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403105778000:android:c03f86ff88109d27558455",
+        "android_client_info": {
+          "package_name": "com.example.tsyproje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs-Cz-tElOHEh2SfpCRv3MK7gQPhDnE6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403105778000:android:04572a0d7b5cd00a558455",
+        "android_client_info": {
+          "package_name": "com.example.tsyproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs-Cz-tElOHEh2SfpCRv3MK7gQPhDnE6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
